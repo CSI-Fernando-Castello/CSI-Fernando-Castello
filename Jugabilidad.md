@@ -45,3 +45,8 @@
 ## Controles 
 #### Es como controlas a tu jugador. Controles son integrales para un buen juego 
 #### Joystick isquierdo para moverte, dercho para mover la camara, el  X B Y A para peliar y combos 
+
+src= "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
+title= " Colegio San Ignacio"
+width= "20%"
+Height= "20%"
