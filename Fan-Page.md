@@ -1,1 +1,110 @@
 
+<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Christopher Bumstead </b></h1>
+
+<div align="center">
+    <img    src="https://i.pinimg.com/originals/00/49/62/0049623c929e3cb316a0cfadc9c906b3.jpg"
+            title="Pestily"
+            width="30%"
+            height="30%" 
+            />
+</div>
+
+<h2 align="center" > Bodybuilding and Sports Fan Page</h2>
+
+<br>
+
+<div align="center">
+    <img    src="https://i.pinimg.com/originals/63/6d/45/636d45eb8fd83aa04e621b362ae1a699.jpg"
+            title="Cbum"
+            width="50%"
+            height="50%" 
+            />
+</div>
+
+
+<br>
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+   Christopher Bumstead is an Candian professional bodybuilder that has been competing in open bodybuilding competitions since 2014 and has amassed a huge fandom through different platforms because of his participation in large contests such as Mr. Olympia, and the Arnold Schwarzenegger competition. He has also aquired many rivals throught his great career.
+</p>
+
+
+<br>
+
+<div align="center">
+    <img    src="https://blog.priceplow.com/wp-content/uploads/cbum-mr-olympia.jpg"
+            title="Cbum"
+            width="50%"
+            height="50%" 
+            />
+</div>
+
+
+<br>
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+   Christopher Bumstead was born on February 2nd of 1995 in Ontario, Canada. His family is unknown into press because he wants to respect his family's privacy. It known that his father has been one of his greatest supporters and helped him start working out. He won many small contest before getting invited te internacional competitions.
+</p>
+
+<br>
+
+<div align="center">
+    <img    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsmkaBFq2DCpHemZFuUb8eCukjArGHG7SgSw&usqp=CAU"
+            title="Cbum"
+            width="50%"
+            height="50%" 
+            />
+</div>
+
+
+<br>
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+   He started working out in his teens but with calisthenics and lightweight, in 2007 he started working out for the physique we see today. His inspirations include bodybuilding legends like Ronnie Coleman, Jay Cutler and Arnold Schwarzenegger.
+</p>
+
+<br>
+
+<table>
+  
+ <tr>
+        <th>Name</th>
+        <td>Chris Bumstead</td>
+    </tr>
+    <tr>
+        <th>Age</th>
+        <td>27</td>
+    </tr>
+    <tr>
+        <th>Birthday</th>
+        <td>2nd Febuary</td>
+    </tr>
+        <tr>
+        <th>Nationality</th>
+        <td>Canadian</td>
+    </tr>
+    <tr>
+        <th>Weight</th>
+        <td>237 pounds</td>
+    </tr>
+    <tr>
+        <th>Mr.Olympia</th>
+        <td>3x</td>
+    </tr>
+    <tr>
+        <th>Instagram</th>
+        <td>"https://www.instagram.com/cbum/?hl=en/"<td>
+    </tr>
+    <tr>
+        <th>Facebook</th>
+        <td>"https://www.facebook.com/Bumstead1995"</td>
+    </tr>
+    <tr>
+    <th>Twitter</th>
+        <td>"https://twitter.com/cbum_?lang=en"<td>
+    </tr>
+    <tr></table>
+
+
+<br><br>
+
+<p>
+    <i>Made by: <u>Fernando Castelló</u> on December 4, 2021</i>
+</p>
